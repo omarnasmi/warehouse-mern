@@ -1,0 +1,43 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+logs/
+*.log
+*.log.*
+
+# dotenv environment variables file
+.env
+
+# OS-specific files
+.DS_Store        # macOS
+Thumbs.db         # Windows
+
+# IDE/Editor specific files
+.vscode/          # VSCode
+.idea/            # JetBrains IDEs
+*.swp             # Vim swap files
+
+# Build artifacts
+dist/
+build/
+
+# Coverage folder from testing
+coverage/
+
+# TypeScript build directory (if using TypeScript)
+*.tsbuildinfo
+
+# Optional: Ignore local package-lock or yarn-lock files (if using a global one)
+package-lock.json
+yarn.lock
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# JetBrains IDE config files
+*.iml
