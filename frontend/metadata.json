@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Warehouse Management System",
+  "description": "A high-performance inventory and facility management dashboard with real-time analytics and integrated AI assistant for stock optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
